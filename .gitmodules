@@ -1,3 +1,0 @@
-[submodule "res_gen/pdfminer"]
-	path = res_gen/pdfminer
-	url = https://github.com/euske/pdfminer.git
