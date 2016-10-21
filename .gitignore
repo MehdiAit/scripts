@@ -1,0 +1,7 @@
+### Files to ignore
+
+# state_gen
+stat_gen/pip-8.1.2
+stat_gen/pip-8.1.2.tar.gz
+stat_gen/pycairo
+
